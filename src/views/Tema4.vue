@@ -8,7 +8,15 @@
       h1 Tipos de corte
     
     p.mb-4(data-aos="fade-right") Existen dos tipos de corte: el corte manual y el corte industrial. Pero ¿cuál es el corte industrial? 
-
+    .bloque-texto-g.fondo-b.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/img2.png')})`}"
+      )
+      .bloque-texto-g__texto.p-5.my-5
+        h4.mb-4 Para tener en cuenta
+          br
+          br
+        p.mb-5(data-aos="fade-right") El enhebrador y tensor, generalmente se ubican en la parte superior y proveen de hilo a la confección; la zona de selección de puntadas, es donde se encuentra el catálogo de puntadas a realizarse.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.bg1.p-4
         .row.justify-content-center.align-items-center.my-5

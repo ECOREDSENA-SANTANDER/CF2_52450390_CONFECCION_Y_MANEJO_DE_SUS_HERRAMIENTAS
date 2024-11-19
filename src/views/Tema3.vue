@@ -7,6 +7,18 @@
         span 3
       h1 Tipos de corte
     
+
+    .row.fondo1.align-items-center.p-3.mb-4(data-aos="fade-down")
+      .col-lg-12.col-md-12.col-12.px-lg-5.px-4
+        .row.justify-content-center.mb-4
+
+        .row.justify-content-center.align-items-end(data-aos="fade-right")
+          .col-lg-6
+            .titulo-sexto.color-secundario.mb-5
+              h5 Figura 1. 
+              | Partes de la maquina básica.
+            img.img-a.img-t.mb-4(src='@/assets/curso/temas/img3.svg', alt='En la figura se señalan las siguientes partes de la máquina básica: -Boton de encendido - Motor interno -Pedal de velocidad -Base de trabajo -El arrastre y pie -Aguja -Bobina')
+            figcaption.whi Fuente SENA
     p.mb-4(data-aos="fade-right") Existen dos tipos de corte: el corte manual y el corte industrial. Pero ¿cuál es el corte industrial? 
 
     .row.justify-content-center.align-items-center.mb-5
