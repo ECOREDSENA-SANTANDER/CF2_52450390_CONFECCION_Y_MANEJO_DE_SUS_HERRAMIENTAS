@@ -13,16 +13,17 @@ export default {
   name: 'ActividadDidactica',
   data: () => ({
     cuestionario: {
-      tema: 'Corte, herramientas y máquinas',
-      titulo: 'Cuestionario',
+      tema: 'Procesos de corte y confección',
+      titulo: 'Ronda de preguntas',
       introduccion:
-        '<b> Objetivo:</b> Validar el conocimiento adquirido sobre las Herramientas, máquinas y tipos de corte utilizados en el proceso de confección.',
+        '<b> Objetivo:</b> Validar el conocimiento adquirido sobre los procesos para la preparación y confección de diferentes prendas de vestir.',
       barajarPreguntas: true,
       preguntas: [
         {
           id: 1,
-          texto: 'El corte siempre va antes de la confección.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto:
+            'Las piezas de la falda que se filetean son: el delantero y los dos posteriores.',
+          imagen: require('@/assets/actividad/img01.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -34,8 +35,8 @@ export default {
         {
           id: 2,
           texto:
-            'Los alfileres son usados para marcar los moldes y señas en la tela.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            'El ruedo es de las primeras acciones del proceso de confección de la falda.',
+          imagen: require('@/assets/actividad/img02.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: true },
@@ -47,8 +48,8 @@ export default {
         {
           id: 3,
           texto:
-            'La caja bobina es una herramienta usada en la parte superior de la máquina plana.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+            'Los costados de la falda evitan que se caiga y además den el acabado a la parte superior de la prenda. ',
+          imagen: require('@/assets/actividad/img03.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: true },
@@ -60,8 +61,8 @@ export default {
         {
           id: 4,
           texto:
-            'La barra de la aguja es la parte de la fileteadora que sostiene la aguja en su extremo y permite que la aguja suba y baje.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+            'La camisa es la prenda más importante en el vestuario superior femenino.',
+          imagen: require('@/assets/actividad/img04.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: true },
@@ -73,12 +74,12 @@ export default {
         {
           id: 5,
           texto:
-            'Las máquinas de coser planas, cosen cualquier tipo de tela y ejecutan una gran variedad de puntadas.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+            'La camisa es la prenda de vestir superior más importante en el vestuario formal masculino.',
+          imagen: require('@/assets/actividad/img01.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Falso', esCorrecta: true },
-            { id: 'b', texto: 'Verdadero', esCorrecta: false },
+            { id: 'a', texto: 'Falso', esCorrecta: false },
+            { id: 'b', texto: 'Verdadero', esCorrecta: true },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
@@ -86,20 +87,21 @@ export default {
         {
           id: 6,
           texto:
-            'A la máquina de coser familiar, también se le llama remalladora.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            ' La blusa es la prenda más importante en el vestuario superior femenino.',
+          imagen: require('@/assets/actividad/img02.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Falso', esCorrecta: true },
-            { id: 'b', texto: 'Verdadero', esCorrecta: false },
+            { id: 'a', texto: 'Falso', esCorrecta: false },
+            { id: 'b', texto: 'Verdadero', esCorrecta: true },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 7,
-          texto: 'A la máquina fileteadora, también se le llama remalladora.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto:
+            'La pulida consta en quitar los hilos sobrantes e impurezas con las que queda la prenda luego del ensamble.',
+          imagen: require('@/assets/actividad/img03.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -111,12 +113,12 @@ export default {
         {
           id: 8,
           texto:
-            'La maquina fileteadora trabaja con más de 3 hilos diferentes.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+            'El planchado se realiza con una plancha preferiblemente de mesa para dar una excelente presentación a la prenda.',
+          imagen: require('@/assets/actividad/img04.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
@@ -124,8 +126,8 @@ export default {
         {
           id: 9,
           texto:
-            'El corte familiar, es el que se realiza cortando muchas tallas y capas de tela a la vez.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+            'El montaje del cierre es la última operación que se realiza en proceso de la confección del pantalón.',
+          imagen: require('@/assets/actividad/img01.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: true },
@@ -137,8 +139,8 @@ export default {
         {
           id: 10,
           texto:
-            'El corte manual es el que se realiza con tijeras, especialmente para tela, y se corta una sola capa.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            'El pantalón es la prenda de vestir inferior, más importante en el vestuario femenino.',
+          imagen: require('@/assets/actividad/img02.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
