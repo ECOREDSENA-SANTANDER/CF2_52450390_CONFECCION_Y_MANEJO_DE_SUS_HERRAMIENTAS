@@ -239,9 +239,9 @@
       .col-lg-3
         img.mb-4(src='@/assets/curso/temas/Tema3/img11.png', alt='')
       .col-lg-9
-        AcordionA(tipo="a" clase-tarjeta="tarjeta color-primario")
-          .row(titulo="Ruedo que indica largo de camisa")
-            .col-md-12.mb-4.mb-md-0
+        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-verde")
+          .row.justify-content-center(titulo="Ruedo que indica largo de camisa")
+            .col-md-11.mb-4.mb-md-0
               ul.lista-ul--color
                 li
                   i.fas.fa-angle-right
@@ -250,8 +250,8 @@
                   i.fas.fa-angle-right
                   |2. Se cose sobre todo el ruedo con puntada recta a 1/16 si dejar de redoblar, rematando al inicio y al final de la operación.  
           
-          .row(titulo="Ruedo de manga")
-            .col-md-12.mb-4.mb-md-0
+          .row.justify-content-center(titulo="Ruedo de manga")
+            .col-md-11.mb-4.mb-md-0
               ul.lista-ul--color
                 li
                   i.fas.fa-angle-right
@@ -262,240 +262,38 @@
   
           
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-    .row.justify-content-center.align-items-end(data-aos="fade-right")
-          .col-lg-6
-            .titulo-sexto.color-secundario.mb-5
-              h5 Figura 1. 
-              | Partes de la maquina básica.
-            img.img-a.img-t.mb-4(src='@/assets/curso/temas/img3.svg', alt='En la figura se señalan las siguientes partes de la máquina básica: -Boton de encendido - Motor interno -Pedal de velocidad -Base de trabajo -El arrastre y pie -Aguja -Bobina')
-            figcaption.whi Fuente SENA
-    p.mb-4(data-aos="fade-right") Existen dos tipos de corte: el corte manual y el corte industrial. Pero ¿cuál es el corte industrial? 
+    separador
+    #t_3_4.titulo-segundo.mb-5
+      h2 3.4  Terminación
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.bg1.p-4
-        .row.justify-content-center.align-items-center.my-5
-          .col-lg-10
-            .bg2.p-4.pe-5
-              .row.justify-content.align-items-center
-                .col-lg-11
-                  .row.justify-content-center.align-items-center
-                    .col-lg-2
-                      img.img-a.img-t.mb-4(src='@/assets/curso/temas/img31.svg', alt='')
-                    .col-lg-10.pe-lg-5
-                      p.mb-0.pe-lg-5 El corte industrial, es el que se realiza cortando muchas tallas y capas de tela a la vez, para lograr esto es necesario usar una máquina cortadora, de la cual existen muchos tipos, las mas comunes son, la cortadora vertical y la cortadora circular. Analicemos cada una:
-          .col-lg-3.sob.d-none.d-lg-block
-            img(src="@/assets/curso/temas/img30.svg", alt="alt").img250
-  
-    p.mb-4(data-aos="fade-right") A continuación se analizan cada una de ellas:
-
-    .row.justify-content-center(data-aos="fade-down")
-      .col-md-6.col-lg-4.col-12.mb-4
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/img32.svg' alt='')
-          .tarjeta.bg3
-            .p-4.my-3
-              h4.mb-4.text-center Cortadora vertical 
-              p.mb-0.text-center Con la cortadora vertical se puede cortar la cantidad de capas necesarias, siempre y cuando, el espesor del tendido de capas de tela sea mayor a 6 pulgadas y menor a 14 pulgas. 
-    
-      .col-md-6.col-lg-4.col-12.mb-4
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/img33.svg' alt='')
-          .tarjeta.bg3
-            .p-4.my-3
-              h4.mb-4.text-center Cortadora circular 
-              p.mb-0.text-center Este tipo de cortadoras es usado para cortes más pequeños, ósea que la cantidad de capas de tela debe tener un alto menor a 4 pulgadas.
-
-      .col-md-6.col-lg-4.col-12.mb-4
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/img34.svg' alt='')
-          .tarjeta.bg3
-            .p-4.my-3
-              h4.mb-4.text-center Corte manual 
-              p.mb-0.text-center El corte manual es el que se realiza con tijeras, especialmente para tela, y se corta una sola capa. Es recomendable no dejar caer las tijeras, ya que se pueden despuntar y desajustar, además no se deben cortar otros tipos de materiales con ellas porque pueden perder su filo. 
-
-    
-    p.mb-4(data-aos="fade-left") La ubicación de moldes para el corte industrial es llamado trazo y éste se realiza de las siguientes dos formas:
-    
-    .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Trazo sistematizado
-
+    p.mb-4 La terminación es el último proceso que se le realiza a la prenda y consta de:   
     SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-3
       .tarjeta.b1.p-5
         .row.justify-content-center
           .col-12.p-4.my-4
-            p.text-center(data-aos="fade-right") #[b a.] Se realizan los moldes en cualquier programa de diseño asistido por computador.
+            h4.text-center.bg-naranja.p-1 Pulida
+            p.text-center(data-aos="fade-right") La pulida consta en quitar los hilos sobrantes e impurezas con las que queda la prenda luego del ensamble.
       .tarjeta.b1.p-5
         .row.justify-content-center
           .col-12.p-4.my-4
-            p.text-center(data-aos="fade-right") #[b b.] Se da la información requerida para realizar el trazo, tales como: tallas, cantidades por talla, ancho de tela, material o tela a cortar.
+            h4.text-center.bg-naranja.p-1 Planchado
+            p.text-center(data-aos="fade-right") El planchado se realiza con una plancha preferiblemente de vapor para dar una excelente presentación a la prenda.
       .tarjeta.b1.p-5
         .row.justify-content-center
           .col-12.p-4.my-4
-            p.text-center(data-aos="fade-right") #[b c.] Se importan los moldes desde este mismo programa pero en el archivo de trazo.
-      .tarjeta.b1.p-5
-        .row.justify-content-center
-          .col-12.p-4.my-4
-            p.text-center(data-aos="fade-right") #[b d.] Se realiza el trazo, buscando organizar los moldes de la manera mas ordenada posible para evitar los desperdicios de tela.
-      .tarjeta.b1.p-5
-        .row.justify-content-center
-          .col-12.p-4.my-4
-            p.text-center(data-aos="fade-right") #[b e.] Se imprime el trazo en papel craf, en una impresora gigante llamada plotter.
-      .tarjeta.b1.p-5
-        .row.justify-content-center
-          .col-12.p-4.my-4
-            p.text-center(data-aos="fade-right") #[b f.] Teniendo en cuenta el largo y ancho del trazo ya realizado, se hacen las señas en la mesa de corte, para ubicar las capas de telas necesarias y así efectuar el corte.
-
+            h4.text-center.bg-naranja.p-1 Empaque
+            p.text-center(data-aos="fade-right") Finalmente se le colocan las etiquetas con su respectiva referencia y talla a la prenda, se empaca y esta lista la camisa
     
+    p.mb-4 Se sugiere revisar el siguiente video para mayor claridad en los procesos de confección de una camisa:
 
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Corte con trazo manual 
-    
-   
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-12
-        .bg4.p-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2.d-none.d-lg-block.ps-lg-5
-              img.img-a.img-t.mbt(src="@/assets/curso/temas/img46.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-2 Consulte el video para entender más sobre trazo manual 
-                .col-lg-auto.pe-lg-5
-                  a.boton.color-acento-botones(href="https://youtu.be/2EkELdwTkew" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-file-download
-
-    .row.justify-content-center.align-items-center(data-aos="fade-right")
-      .col-lg-12
-        .bg4.p-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2.d-none.d-lg-block.ps-lg-5
-              img.img-a.img-t.mbt(src="@/assets/curso/temas/img47.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-2 Consulte el video para conocer la maquina cortadora 
-                .col-lg-auto.pe-lg-5
-                  a.boton.color-acento-botones(href="https://youtu.be/V3zxsruHRyI" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-file-download
-
-    separador
-    #t_3_2.titulo-segundo.mb-5
-      h2 3.2 Ubicación de moldes para corte manual 
-
-    p.mb-4(data-aos="fade-right") La ubicación de los moldes para realizar el corte manual, es rápida y fácil. Lo único que no se puede olvidar en el momento de ubicar los moldes sobre la tela, es, conservar la línea de aplome del molde, paralelo al orillo de la tela. El corte manual, es el que se realiza con tijeras, por lo tanto se corta una sola capa.
-
+     figure(data-aos="fade-left")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/x7d_FSKU5_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: Confección de CAMISA CLÁSICA MASCULINA - DIY - Paso a paso
+        
+        
+        
+        
     
 
 </template>
