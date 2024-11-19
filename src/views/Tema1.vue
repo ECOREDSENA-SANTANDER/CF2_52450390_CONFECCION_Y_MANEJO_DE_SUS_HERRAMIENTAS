@@ -6,30 +6,192 @@
       .titulo-principal__numero
         span 1
       h1 Corte y herramientas
+
+    p.mb-4 Para el corte de la falda se deben seguir los siguientes pasos: 
+
+    .row.justify-content-center(data-aos="zoom-in")
+      .col-lg-10
+        PasosA.color-acento-contenido.mb-0(tipo="n")
+          .row
+            .col-lg
+              h3 Paso 1
+              p.mb-4 Se debe marca los moldes en la tela elegida para confeccionar la falda, asegurándose que se tengan los incrementos para costura.   
+            .col-auto
+              figure(data-aos="zoom-in")
+                img(src='@/assets/curso/temas/Tema1/img01.png', alt='')
+          .row
+            .col-auto
+              figure(data-aos="zoom-in")
+                img.mb-4(src='@/assets/curso/temas/Tema1/img02.png', alt='')
+            .col-lg
+              h3.le Paso 2
+              p.le Se deben cortar cada una de las piezas y asegurarse de marcar sobre la tela los piquetes, la profundidad de pinza y el piquete de mitad de cintura en pretina. 
+          .row.mb-4
+            .col-lg
+              h3 Paso 3
+              p Organizar todas las piezas ya cortadas y dejarlas listas para confeccionarlas. 
+            .col-auto
+              figure(data-aos="zoom-in")
+                img(src='@/assets/curso/temas/Tema1/img03.png', alt='')
     
-    p.mb-4(data-aos="fade-right") ¿Qué es el corte? 
-    p.mb-4(data-aos="fade-left") El corte es la #[b separación de la tela] o cuero en piezas diferentes, las cuales conforman en su conjunto una prenda de vestir o calzar. La oficina en que se cortan prendas de vestir, también recibe el nombre de #[b “Corte”]. 
-    p.mb-4(data-aos="fade-right") El corte siempre va antes que la confección y para realizar ambos, corte y confección necesitamos de las siguientes #[b herramientas:]
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-12
+        .bg4.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2.d-none.d-lg-block.ps-lg-5
+              img.img-a.img-t.mbt(src="@/assets/curso/temas/Tema1/img04.png")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.mb-2 Para comprender mejor los pasos para el corte de una falda, visita el siguiente enlace
+                .col-lg-auto.pe-lg-5
+                  a.boton.color-acento-botones(href="https://youtu.be/w9GGdFRgpzY" target="_blank")
+                    span Ir al sitio
+                    i.fas.fa-file-download 
+    
+    separador
+    #t_1_1.titulo-segundo.mb-5
+      h2 1.1  Pinzas 
+    
+    p.mb-4 Las pinzas son las que permiten que la falda tenga una mejor horma y la silueta sea más perfecta. A continuación, se estudia el paso a paso de la elaboración de las pinzas de la falda:
+  
+    .row.justify-content-center.align-items-center(data-aos="zoom-in")
+      .col-lg-7.mb-4
+        LineaTiempoD.color-acento-botones.activo
+          
+          p(numero="1" titulo="Paso 1") Coser a máquina la prenda asegurándose que esté correctamente enhebrada, con el color del hilo similar al de la tela a cocer y que su puntada sea de 3,5 de largo, en el selector de puntada de la maquina plana. 
+          .row.justify-content-center(numero="2" titulo="Paso 2")
+            .col-md-12.mb-4.mb-md-0
+              p Revisar si el delantero y los dos posteriores tienen marcados los piquetes y la profundidad de pinza. 
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/Tema1/img05.png', alt='Texto que describa la imagen')
+          
+          .row.justify-content-center(numero="3" titulo="Paso 3")
+            .col-md-12.mb-4.mb-md-0
+              p Doblar la tela derecho con derecho, encarando los piquetes de la pinza. 
+            .col-md-2
+              figure
+                img(src='@/assets/curso/temas/Tema1/img06.png', alt='Texto que describa la imagen')
+          
+          .row.justify-content-center(numero="4" titulo="Paso 4")
+            .col-md-12.mb-4.mb-md-0
+              p Desde el orillo de la cintura, partiendo sobre los piquetes, se debe cocer asegurando con remate al comienzo y terminando en diagonal, exactamente en el punto que indica profundidad de pinza. También con remate.
+            .col-md-2
+              figure
+                img(src='@/assets/curso/temas/Tema1/img07.png', alt='Texto que describa la imagen')
+          
+          .row.justify-content-center(numero="5" titulo="Paso 5")
+            .col-md-12.mb-4.mb-md-0
+              p De esta forma debe quedar la pinza ya terminada. Así queda por el derecho de la tela:  
+            .col-md-2
+              figure
+                img(src='@/assets/curso/temas/Tema1/img08.png', alt='Texto que describa la imagen')
+      .col-lg-5.mb-4.col-8
+        figure
+          img(src="@/assets/curso/temas/Tema1/img09.png", alt="alt")(data-aos="zoom-in")
+    
+    separador
+    #t_1_2.titulo-segundo.mb-5
+      h2 1.2  Filetear piezas 
+
+
+    p.mb-4 Las piezas deben ser fileteadas para dar un mejor acabado y evitar que se desflequen. Descubramos cuales y por donde se filetean las piezas de la falda.
+
+    .row.justify-content-center(data-aos="fade-down")
+      .col-md-6.col-lg-4.col-12.mb-4
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/Tema1/img10.svg' alt='')
+          .tarjeta.bg3
+            .p-4.my-3
+              p.mb-0.text-center Las piezas de la falda que se filetean son: el delantero y los dos posteriores. 
+    
+      .col-md-6.col-lg-4.col-12.mb-4
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/Tema1/img11.svg' alt='')
+          .tarjeta.bg3
+            .p-4.my-3
+              p.mb-0.text-center Al delantero se le filetean los costados y el ruedo. Los posteriores, se filetean en costados, centro atrás y ruedo. La cintura como va entalegada con la pretina no es necesario filetearla. 
+
+    separador
+    #t_1_3.titulo-segundo.mb-5
+      h2 1.3  Cierre 
+
+    p.mb-4 El cierre va ubicado en el centro atrás o en uno de los costados, eso varía según lo desee la persona que a la que se le va a confeccionar la prenda, para una falda básica se recomienda un cierre de 18cm de largo. A continuación se presentan los pasos a seguir para colocar un cierre de falda.
+    
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .col-lg-7
+        .tarjeta.fondo-slyder.p-4
+          PasosB.color-primario.fondoblanco.p-4
+            .row.justify-content-center(titulo="Paso 1")
+              .col-md-7.mb-4.mb-md-0
+                p Se toman los dos posteriores. 
+
+            .row.justify-content-center(titulo="Paso 2")
+              .col-md-11.mb-4.mb-md-0
+                p Se ubica el cierre en el vértice de cintura - centro atrás. El doblez derecho de la abertura de la falda, se monta sobre la parte derecha de la cremallera topando con los dientes y se coce con puntada recta. 
+        
+            .row.justify-content-center(titulo="Paso 3")
+              .col-md-11.mb-4.mb-md-0
+                p El doblez izquierdo de la abertura de la falda, debe tapar la parte izquierda de la cremallera topándose con el doblez derecho de la abertura de la falda. Se continúa cociendo con puntada recta, rematando al inicio y al final de la costura.  
+
+    separador
+    #t_1_4.titulo-segundo.mb-5(data-aos="fade-down")
+      h2 1.4.  Costados 
+
+    p.mb-4 Los costados son los que unen la pieza delantera con los posteriores y permiten que la falda quede cerrada. 
+    p Conoceremos el procedimiento a seguir para la unida o cerrada de costados:
+    
+    .row.justify-content-center(data-aos="zoom-in")
+      .col-lg-10
+        PasosA.color-acento-contenido.mb-0(tipo="n")
+          .row
+            .col-lg
+              h3 Paso 1
+              p.mb-4 Una vez puesta la cremallera, procedemos a encarar la parte delantera y posterior de la falda, haciendo que coincida derecho, con derecho la tela. 
+            .col-auto
+              figure(data-aos="zoom-in")
+                img(src='@/assets/curso/temas/Tema1/img12.png', alt='')
+          .row
+            .col-auto
+              figure(data-aos="zoom-in")
+                img.mb-4(src='@/assets/curso/temas/Tema1/img13.png', alt='')
+            .col-lg
+              h3.le Paso 2
+              p.le Luego se coce en la maquina plana y con puntada recta, a 1cm de distancia del orillo de los costados. 
+          .row.mb-4
+            .col-lg
+              h3 Paso 3
+              p Siempre se debe rematar al iniciar y al finalizar el trayecto a cocer. 
+            .col-auto
+              figure(data-aos="zoom-in")
+                img(src='@/assets/curso/temas/Tema1/img14.png', alt='')
+    
+    separador
+    #t_1_5.titulo-segundo.mb-5(data-aos="fade-down")
+      h2 1.5.  Pretina 
+      
+    p La pretina es la que rodea la falda. A esta pieza, se le realiza un ojal y se le coloca un botón para ajustar la cintura para evitar que se caiga. Además, da el acabado a la parte superior de esta prenda. 
+    p.mb-4 Conozcamos el procedimiento a seguir para el ensamble de la pretina en la falda.
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-lg-7.mb-4
         LineaTiempoD.color-acento-botones.activo
-          p(numero="1" titulo="Tijeras de tela") Las tijeras de tela, como su nombre lo indica son para cortar única y exclusivamente tela, ya que si las usamos para cortar otro tipo de materiales, se puede dañar el filo a las cuchillas, también se recomienda no dejarlas caer ya que se desajustan y comienzan a fallar.
-          p(numero="2" titulo="Tijeras de papel") Las tijeras de papel, como su nombre lo indica son para cortar papel y éstas si pueden ser usadas en otro tipo de materiales tales como el plástico o el cartón.
-          p(numero="3" titulo="Alfileres") Los alfileres es recomendable que sean de cabeza grande y puntiagudos, sí los alfileres tiene la punta chata o partida pueden romper los tejidos de la tela en la cual los estemos pinchando.
-          p(numero="4" titulo="Tiza para confección") La tiza es usada para marcar los moldes y señas en la tela.
-          p(numero="5" titulo="Pinzas para enhebrado") Las pinzas para enhebrado son usadas principalmente para pasar el hilo por los loopers  en el momento de enhebrar las máquinas especialmente la máquina fileteadora y/o recubridora.
-          p(numero="6" titulo="Mesa para corte") Esta mesa además de ser usada para cortar la tela, también es usada para apoyar las piezas para ser acomodadas o empalmadas para realizar partes del proceso de confección.
-          p(numero="7" titulo="Pulidora") Con la pulidora, además de cortar las hebras de hilo sobrantes en el proceso de confección, su puede pulir la prenda cuando ya está terminada.
-          p(numero="8" titulo="Metro") El metro o cinta métrica es usada para dar medidas exactas en el momento de ser necesario en cualquiera de los procedimientos de la confección.
-          p(numero="9" titulo="Aguja de mano") Esta aguja es una herramienta que se utiliza en caso de que sea necesario bastear la pieza a confeccionar.
-          p(numero="10" titulo="Agujas para máquinas") Por el contrario de las agujas de mano, las agujas de la máquina son unas de las herramientas más importantes en el momento de usar cualquiera de las máquinas de coser y cada una de ellas requiere de una aguja especial.
-          p(numero="11" titulo="Hilos") Además de la máquina y las agujas, los hilos son otra herramienta importante ya que gracias a ellos logramos dejar unidas cada una de las piezas de una prenda de vestir, Los hilos más comunes en la confección son el hilo de algodón, el poliéster y el nylon.
-          p(numero="12" titulo="Destornilladores") Los destornilladores se necesitan para el cambio de agujas y para realizar ajustes ocasionales a las máquinas, por eso es necesario tener en diferentes tamaños y diferentes puntas.
-          p(numero="13" titulo="Caja bobina") La caja bobina es una herramienta usada en la parte inferior de la máquina plana y es la que recibe y hace que el carretel con hilo sean los que entrelacen la puntada. 
-      .col-7.col-lg-5.col-md-7
+          p(numero="1" titulo="Paso 1") Luego de haber cerrado los costados, se monta la pretina, haciendo coincidir el piquete de mitad de pretina con el de la mitad del delantero de la falda, ubicando el derecho de tela de la pretina con el revés de tela de la falda. 
+          p(numero="2" titulo="Paso 2") Se coce a máquina con puntada recta y a 1cm de distancia de los orillos, siempre rematando al inicio y al final del trayecto, en este paso estamos fijando la pretina de la falda
+          p(numero="3" titulo="Paso 3") Una vez hecho este procedimiento, la otra parte de la pretina se monta sobre el derecho de la falda,  se dobla 1cm hacia adentro y se cose a ½ cm desde el borde de ésta
+          p(numero="4" titulo="Paso 4") Después de haber montado la pretina, se hacen las esquinas, puntas o cabezas en cada extremo de ella, doblado ½ cm y cociendo sobre el orillo. 
+          p(numero="5" titulo="Paso 5") Por último, se hace el ojal y se coloca el botón.  
+      .col-lg-5.mb-4.col-8
         figure
-          img(src="@/assets/curso/temas/img1.png", alt="alt")(data-aos="zoom-in")
+          img(src="@/assets/curso/temas/Tema1/img15.png", alt="alt")(data-aos="zoom-in")
+
+    separador
+    #t_1_6.titulo-segundo.mb-5(data-aos="fade-down")
+      h2 1.6.  Ruedo 
+
+    p El ruedo es el orillo y el que da el acabado a la parte inferior de la falda. Esta operación se puede realizar con aguja manual o en máquina. Y es la última del proceso de confección de la falda básica.
 
 </template>
 

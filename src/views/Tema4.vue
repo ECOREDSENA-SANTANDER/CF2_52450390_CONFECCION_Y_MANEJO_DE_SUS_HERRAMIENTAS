@@ -86,7 +86,21 @@
           .col-12.p-4.my-4
             p.text-center(data-aos="fade-right") #[b f.] Teniendo en cuenta el largo y ancho del trazo ya realizado, se hacen las señas en la mesa de corte, para ubicar las capas de telas necesarias y así efectuar el corte.
 
-    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-12
+        .bg4.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2.d-none.d-lg-block.ps-lg-5
+              img.img-a.img-t.mbt(src="@/assets/curso/temas/img35.png")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.mb-2 Consulte el siguiente video, para tener una descripción más detallada del trazo sistematizado: 
+                  h4.mb-3 #[b OPTITEX - MARKER Trazo de patrones]
+                .col-lg-auto.pe-lg-5
+                  a.boton.color-acento-botones(href="https://youtu.be/fscxWYsenLE" target="_blank")
+                    span Ir al sitio
+                    i.fas.fa-file-download
 
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 Corte con trazo manual 
@@ -203,7 +217,39 @@
 
     p.mb-4(data-aos="fade-right") La ubicación de los moldes para realizar el corte manual, es rápida y fácil. Lo único que no se puede olvidar en el momento de ubicar los moldes sobre la tela, es, conservar la línea de aplome del molde, paralelo al orillo de la tela. El corte manual, es el que se realiza con tijeras, por lo tanto se corta una sola capa.
 
-    
+    .row.justify-content-center
+      .col-lg-10
+        PasosA.color-acento-contenido.mb-0(tipo="n")
+          .row
+            .col-lg
+              h3 Paso 1
+              p.mb-4 Se extiende la tela sobre una mesa que abarque el ancho de la tela a cortar y se ubican los moldes.  
+              p.mb-4 Siempre se debe respetar el hilo de tela o aplome del molde.
+            .col-auto
+              figure(data-aos="zoom-in")
+                img(src='@/assets/curso/temas/img48.svg', alt='')
+          .row
+            .col-auto
+              figure(data-aos="zoom-in")
+                img.mb-4(src='@/assets/curso/temas/img49.svg', alt='')
+            .col-lg
+              h3.le Paso 2
+              p.le Se fija el molde con alfileres o se marca con tiza para confección en la tela.  
+          .row
+            .col-lg
+              h3 Paso 3
+              p Luego de tener marcado el molde sobre la tela, se procede a cortar cada una de las piezas necesarias para la confección de una sola prenda. 
+            .col-auto
+              figure(data-aos="zoom-in")
+                img(src='@/assets/curso/temas/img50.svg', alt='')
+          .row
+            .col-auto
+              figure(data-aos="zoom-in")
+                img.mb-4(src='@/assets/curso/temas/img51.svg', alt='')
+            .col-lg
+              h3.le Paso 4
+              p.le ¡Listo! se puede comenzar a confeccionar. 
+
 
 </template>
 

@@ -32,47 +32,137 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Corte y herramientas',
+        titulo: 'Corte y confección de la falda ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '1.1',
+            titulo: 'Pinzas',
+            hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Filetear piezas ',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Cierre ',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Costados ',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Pretina ',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Ruedo ',
+            hash: 't_1_6',
+          },
+        ],
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Máquinas Básicas',
+        titulo: 'Corte y confección de la blusa',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Máquina plana industrial',
+            titulo: 'Corte de la blusa',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Máquina familiar',
+            titulo: 'Pasos para la confección de la blusa',
             hash: 't_2_2',
-          },
-          {
-            numero: '2.3',
-            titulo: 'Fileteadora',
-            hash: 't_2_3',
           },
         ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tipos de corte',
+        titulo: 'Corte y confección de la camisa',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Ubicación de moldes para corte industrial',
+            titulo: 'Preparación de las piezas',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Ubicación de moldes para corte manual',
+            titulo: 'Ensamble',
             hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Los ruedos',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Terminación',
+            hash: 't_3_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Corte y confección del pantalón',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Montaje de cierre',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Bolsillo lateral',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Bolsillos posteriores',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: ' Tiro posterior',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Cerrada de los costados',
+            hash: 't_4_5',
+          },
+          {
+            numero: '4.6',
+            titulo: 'Cerrada de la entrepierna',
+            hash: 't_4_6',
+          },
+          {
+            numero: '4.7',
+            titulo: 'Pasadores',
+            hash: 't_4_7',
+          },
+          {
+            numero: '4.8',
+            titulo: 'Pretina',
+            hash: 't_4_8',
+          },
+          {
+            numero: '4.9',
+            titulo: 'Ruedo',
+            hash: 't_4_9',
           },
         ],
       },
