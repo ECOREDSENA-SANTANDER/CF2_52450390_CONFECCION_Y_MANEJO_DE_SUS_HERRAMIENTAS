@@ -97,9 +97,49 @@ export default {
             hash: 't_3_1',
           },
           {
+            numero: '3.1.1',
+            titulo: 'Preparación del cuello',
+            hash: 't_3_1_1',
+          },
+          {
+            numero: '3.1.2',
+            titulo: 'Preparación de la perilla',
+            hash: 't_3_1_2',
+          },
+          {
+            numero: '3.1.3',
+            titulo: 'Preparación y ensamble de bolsillo',
+            hash: 't_3_1_3',
+          },
+          {
+            numero: '3.1.4',
+            titulo: 'Delanteros y espaldar',
+            hash: 't_3_1_4',
+          },
+          {
             numero: '3.2',
             titulo: 'Ensamble',
             hash: 't_3_2',
+          },
+          {
+            numero: '3.2.1',
+            titulo: 'Ensamble de la espalda',
+            hash: 't_3_2_1',
+          },
+          {
+            numero: '3.2.2',
+            titulo: 'Ensamble de las mangas',
+            hash: 't_3_2_3',
+          },
+          {
+            numero: '3.2.3',
+            titulo: 'Ensamble delanteros',
+            hash: 't_3_2_3',
+          },
+          {
+            numero: '3.2.4',
+            titulo: 'Ensamble del cuello',
+            hash: 't_3_2_4',
           },
           {
             numero: '3.3',
@@ -235,47 +275,79 @@ export default {
   glosario: [
     {
       termino: 'Caja bobina',
-      significado:
-        'Es una herramienta usada en la parte inferior de la máquina plana y es la que recibe y hace que el carretel con hilo sean los que entrelacen la puntada.',
+      significado: '',
     },
     {
-      termino: 'Corte',
-      significado: 'Es la separación de la tela o cuero en piezas diferentes.',
+      termino: 'Caja bobina',
+      significado: '',
     },
     {
-      termino: 'Devanador',
-      significado:
-        'Parte de la máquina plana de una aguja que permite llenar el carretel de hilo para alimentar la puntada inferior de la costura.',
+      termino: 'Caja bobina',
+      significado: '',
     },
     {
-      termino: 'Destornillador',
-      significado:
-        'Es una herramienta que se utiliza para apretar y aflojar tornillos y otros elementos de máquinas que se necesitan para el cambio de agujas y para realizar ajustes ocasionales a las máquinas.',
+      termino: 'Caja bobina',
+      significado: '',
     },
     {
-      termino: 'Hilo',
-      significado:
-        'Es una hebra larga y delgada de un material textil, especialmente se usa para coser, los más comunes en la confección son el hilo de algodón, el poliéster y el nylon.',
+      termino: 'Caja bobina',
+      significado: '',
     },
     {
-      termino: '<em>Looper</em>',
-      significado:
-        'Son tomadores de lazada que junto con las agujas forman la puntada.',
+      termino: 'Caja bobina',
+      significado: '',
     },
     {
-      termino: 'Metro',
-      significado:
-        'Cinta que tiene marcada la longitud del metro y sus divisiones y sirve para medir distancias o longitudes, usada para dar medidas exactas en cualquiera de los procedimientos de la confección.',
+      termino: 'Caja bobina',
+      significado: '',
     },
     {
-      termino: 'Pulidora',
-      significado:
-        'Máquina - herramienta para quitar las hebras en procesos cuando ya está terminada.',
+      termino: 'Caja bobina',
+      significado: '',
     },
     {
-      termino: 'Trazo',
-      significado:
-        'Línea o raya que constituye la forma o el contorno de algo.',
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
+    },
+    {
+      termino: 'Caja bobina',
+      significado: '',
     },
   ],
   referencias: [

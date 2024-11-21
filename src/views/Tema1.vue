@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Corte y herramientas
+      h1 Corte y confección de la falda 
 
     p.mb-4 Para el corte de la falda se deben seguir los siguientes pasos: 
 
@@ -179,10 +179,10 @@
       .col-lg-7.mb-4
         LineaTiempoD.color-acento-botones.activo
           p(numero="1" titulo="Paso 1") Luego de haber cerrado los costados, se monta la pretina, haciendo coincidir el piquete de mitad de pretina con el de la mitad del delantero de la falda, ubicando el derecho de tela de la pretina con el revés de tela de la falda. 
-          p(numero="2" titulo="Paso 2") Se coce a máquina con puntada recta y a 1cm de distancia de los orillos, siempre rematando al inicio y al final del trayecto, en este paso estamos fijando la pretina de la falda
-          p(numero="3" titulo="Paso 3") Una vez hecho este procedimiento, la otra parte de la pretina se monta sobre el derecho de la falda,  se dobla 1cm hacia adentro y se cose a ½ cm desde el borde de ésta
+          p(numero="2" titulo="Paso 2") Se coce a máquina con puntada recta y a 1cm de distancia de los orillos, siempre rematando al inicio y al final del trayecto, en este paso estamos fijando la pretina de la falda. 
+          p(numero="3" titulo="Paso 3") Una vez hecho este procedimiento, la otra parte de la pretina se monta sobre el derecho de la falda,  se dobla 1cm hacia adentro y se cose a ½ cm desde el borde de ésta. 
           p(numero="4" titulo="Paso 4") Después de haber montado la pretina, se hacen las esquinas, puntas o cabezas en cada extremo de ella, doblado ½ cm y cociendo sobre el orillo. 
-          p(numero="5" titulo="Paso 5") Por último, se hace el ojal y se coloca el botón.  
+          p(numero="5" titulo="Paso 5") Por último, se hace el ojal y se coloca el botón.   
       .col-lg-5.mb-4.col-8
         figure
           img(src="@/assets/curso/temas/Tema1/img15.png", alt="alt")(data-aos="zoom-in")

@@ -20,6 +20,7 @@
     p.mb-4 Teniendo preparadas y listas todas las piezas de la camisa, se procede al ensamble.
     
     separador
+    #t_3_1_1
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.1.1  Preparación del cuello
     
@@ -85,12 +86,14 @@
               p.mb-0.text-center #[b h.]  Ya tenemos listo el cuello para ensamblarlo a la camisa.
 
     separador
+    #t_3_1_2
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.1.2  Preparación de la perilla
     
     p.mb-4(data-aos="fade-left") Para la preparación, dobla la perilla según los piquetes, redobla el centímetro que guarda, pespunta a 1/16 desde el escote del cuello hasta el ruedo y por último realiza los ojales.
     
     separador
+    #t_3_1_3
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.1.3 Preparación y ensamble del bolsillo
     
@@ -107,6 +110,7 @@
 
         
     separador
+    #t_3_1_4
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.1.4 Delanteros y espalda  
     p.mb-4 Los delanteros son las piezas frontales de la camisa. El izquierdo es donde comúnmente va el bolsillo y es utilizado para ensamblar las otras piezas que lleva la camisa. <br>La espalda es la pieza opuesta al delantero y es usada en el momento del ensamble de la camisa.
@@ -124,6 +128,7 @@
         
         
     separador
+    #t_3_2_1
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.2.1 Ensamble de la espalda
     p.mb-4 A continuación, se presenta el ensamble de la espalda en tres pasos:
@@ -151,6 +156,7 @@
         img.mb-4(src='@/assets/curso/temas/Tema3/img04.png', alt='') 
         
     separador
+    #t_3_2_2
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.2.2 Ensamble de las mangas
     p.mb-4 El ensamble de la camisa es posible hacerlo en dos pasos:
@@ -165,9 +171,10 @@
           img(src="@/assets/curso/temas/Tema3/img05.png", alt="alt")(data-aos="zoom-in")    
     
     separador
+    #t_3_2_3
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.2.3 Ensamble de delanteros
-    p.mb-4 El ensamble de la camisa es posible hacerlo en dos pasos:   
+    p.mb-4 Analicemos el ensamble de los delanteros, en los siguientes dos pasos:  
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-8.col-sm-5.mb-2
@@ -191,6 +198,7 @@
         
         
     separador
+    #t_3_2_4
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.2.4  Ensamble del cuello
     p.mb-4 Para realizar el ensamble del cuello, se deben seguir los siguientes 4 pasos:   
@@ -282,7 +290,7 @@
         .row.justify-content-center
           .col-12.p-4.my-4
             h4.text-center.bg-naranja.p-1 Empaque
-            p.text-center(data-aos="fade-right") Finalmente se le colocan las etiquetas con su respectiva referencia y talla a la prenda, se empaca y esta lista la camisa
+            p.text-center(data-aos="fade-right") Finalmente se le colocan las etiquetas con su respectiva referencia y talla a la prenda, se empaca y esta lista la camisa.
     
     p.mb-4 Se sugiere revisar el siguiente video para mayor claridad en los procesos de confección de una camisa:
 

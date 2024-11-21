@@ -13,7 +13,6 @@
       .col-lg-7
         .cajon.color-primario.p-4.mb-4
           img.mb-4(src='@/assets/curso/temas/Tema4/img01.png', alt='')
-    p.mb-4 Teniendo preparadas y listas todas las piezas de la camisa, se procede al ensamble.
 
     .row.mb-5
       .col-lg-4
@@ -123,12 +122,13 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/Tema4/img04.png')})`}"
       )
       .bloque-texto-g__texto.p-5.my-5
-        p.mb-5(data-aos="fade-right") El enhebrador y tensor, generalmente se ubican en la parte superior y proveen de hilo a la confección; la zona de selección de puntadas, es donde se encuentra el catálogo de puntadas a realizarse.
+        p.mb-5(data-aos="fade-right") Las piezas anterior y posterior de cada pierna se unen por la costura de entrepierna. Se colocan ambas piezas resultantes haciendo coincidir la cruz de la entrepierna, se sujetan con alfileres para coser la curvatura entera utilizando una maquina fileteadora con puntada de seguridad.
             
     separador
     #t_4_7.titulo-segundo.mb-5
       h2 4.7  Pasadores
-    p.mb-4 Se realiza una tira completa y se sacan 5 pasadores de 8cm (la medida da cada pasador corresponde a el ancho de la pretina + 5 cm) <br>Estudiemos los pasos para la elaboración de los pasadores:
+    p.mb-4 Se realiza una tira completa y se sacan 5 pasadores de 8cm (la medida da cada pasador corresponde a el ancho de la pretina + 5 cm).
+    p Estudiemos los pasos para la elaboración de los pasadores:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
