@@ -133,26 +133,26 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .row
-          .col-lg-2
+          .col-lg-2.col-3
             img.mb-4(src='@/assets/curso/temas/Tema4/1.svg', alt='')
           .col-lg-11 #[b 1.] Se filetea cualquiera de los dos orillos de la tira para < pasador.
-      
+        .py-2
       .col-lg-6
         .row
-          .col-lg-2
+          .col-lg-2.col-3
             img.mb-4(src='@/assets/curso/temas/Tema4/3.svg', alt='')
           .col-lg-11 #[b 3.] Se cose con pespunte a ¼ a cada lado.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .row
-          .col-lg-2
+          .col-lg-2.col-3
             img.mb-4(src='@/assets/curso/temas/Tema4/2.svg', alt='')
           .col-lg-11 #[b 2.] Se redobla la tira dejando el filete por fuera y guardando la zona rustica.
-      
+        .py-2
       .col-lg-6
         .row
-          .col-lg-2
+          .col-lg-2.col-3
             img.mb-4(src='@/assets/curso/temas/Tema4/4.svg', alt='')
           .col-lg-11 #[b 4.] Se cortan 5 pasadores. La medida depende del ancho de pretina + 5 cm. 
     
@@ -172,42 +172,42 @@
                   .col-md-7.mb-5.mb-md-0
                     h5 Paso 1
                     p Luego de haber cerrado los costados, se continúa montando la pretina, haciendo coincidir el piquete de mitad de pretina con el de la mitad de las perneras posteriores, ubicando el derecho de tela de la pretina con el revés de tela del pantalón.
-                  .col-md-3
+                  .col-md-3.col-8
                     figure
                       img.mb-4(src='@/assets/curso/temas/Tema4/1.png', alt='')
                 .row.justify-content-center.align-items-center.p-4
                   .col-md-7.mb-4.mb-md-0
                     h5 Paso 2
                     p Se fija la pretina a la cintura del pantalón, ya sea con alfileres o con bastas, para evitar perder el centro de estas dos piezas, ya que si no tenemos precaución nos queda faltando pretina en alguno de los dos lados para realizar las puntas o extremos de las pretinas.
-                  .col-md-3
+                  .col-md-3.col-8
                     figure
                       img.mb-4(src='@/assets/curso/temas/Tema4/2.png', alt='')
                 .row.justify-content-center.align-items-center.p-4
                   .col-md-7.mb-4.mb-md-0
                     h5 Paso 3
                     p Ahora se cose a máquina con puntada recta y a 1cm de distancia de los orillos, siempre rematando al inicio y al final del trayecto, en este paso se fija la pretina al pantalón.
-                  .col-md-3
+                  .col-md-3.col-8
                     figure
                       img.mb-4(src='@/assets/curso/temas/Tema4/3.png', alt='')
                 .row.justify-content-center.align-items-center.p-4
                   .col-md-7.mb-4.mb-md-0
                     h5 Paso 4
                     p Una vez hecho este procedimiento, la otra parte de la pretina se monta sobre el derecho del pantalón, se dobla 1cm hacia adentro y se cose a medio centímetro desde el borde de ésta.
-                  .col-md-3
+                  .col-md-3.col-8
                     figure
                       img.mb-4(src='@/assets/curso/temas/Tema4/4.png', alt='')
                 .row.justify-content-center.align-items-center.p-4
                   .col-md-7.mb-4.mb-md-0
                     h5 Paso 5
                     p Después de haber montado la pretina, se hacen las esquinas, puntas o cabezas en cada extremo de ella, doblando ½ cm y cosiendo sobre el orillo.
-                  .col-md-3
+                  .col-md-3.col-8
                     figure
                       img.mb-4(src='@/assets/curso/temas/Tema4/5.png', alt='')
                 .row.justify-content-center.align-items-center.p-4
                   .col-md-7.mb-4.mb-md-0
                     h5 Paso 6
                     p Por último, se hace el ojal y se coloca el botón.
-                  .col-md-3
+                  .col-md-3.col-8
                     figure
                       img.mb-4(src='@/assets/curso/temas/Tema4/6.png', alt='')
                     

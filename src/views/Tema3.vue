@@ -152,7 +152,7 @@
           |Se cose uniendo el delantero con espalda, en la zona de los hombros.
 
 
-      .col-lg-2 
+      .col-lg-2.col-sm-8
         img.mb-4(src='@/assets/curso/temas/Tema3/img04.png', alt='') 
         
     separador
@@ -183,14 +183,14 @@
         .tarjeta.fondo-slyder2.p-4
           SlyderA.fondoblanco.p-4
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema3/img07.svg', alt='Texto que describa la imagen')
               .col-md-8
                 p #[b Paso 1.]  Se enfrentan derecho con derecho los ruedos de la manga y se casan las costuras de la sisa.
            
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema3/img08.svg', alt='Texto que describa la imagen')
               .col-md-8
@@ -244,7 +244,7 @@
 
         
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.col-8.col-sm-6
         img.mb-4(src='@/assets/curso/temas/Tema3/img11.png', alt='')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-verde")

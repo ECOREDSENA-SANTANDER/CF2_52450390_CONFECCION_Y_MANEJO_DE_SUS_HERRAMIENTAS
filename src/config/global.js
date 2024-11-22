@@ -254,100 +254,116 @@ export default {
   },
   complementario: [
     {
-      tema: 'Trazo sistematizado',
-      referencia: '',
+      tema: '1. Corte y confección de falda',
+      referencia:
+        'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/w9GGdFRgpzY',
       tipo: 'video',
-      link: 'https://youtu.be/fscxWYsenLE',
+      link: 'https://youtu.be/w9GGdFRgpzY',
     },
     {
-      tema: 'Corte con trazo manual',
-      referencia: '',
+      tema: '3. Corte y confección de camisa',
+      referencia:
+        'Acoldemoda [@Acoldemoda]. (s/f). Confección de CAMISA CLÁSICA MASCULINA - DIY - Paso a paso. Youtube. Recuperado de https://www.youtube.com/watch?v=x7d_FSKU5_o',
       tipo: 'video',
-      link: 'https://youtu.be/2EkELdwTkew',
+      link: 'https://youtu.be/x7d_FSKU5_o',
     },
     {
-      tema: 'Corte industrial',
-      referencia: '',
+      tema: '4.2 Bolsillo lateral',
+      referencia:
+        'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/zozv1G9Yk_M',
       tipo: 'video',
-      link: 'https://youtu.be/V3zxsruHRyI',
+      link: 'https://youtu.be/zozv1G9Yk_M',
     },
   ],
   glosario: [
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Aletilla',
+      significado: 'Pieza de tela que acompaña a la cremallera del pantalón.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Bastas',
+      significado:
+        'También llamadas pespunte, es una serie de puntadas en uno o más materiales',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Bocamanga',
+      significado: 'Medida de la parte inferior de las mangas.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Bragueta',
+      significado:
+        'abertura delantera de los pantalones o calzoncillos. Inventada en Francia en el siglo XV, originalmente no llevaba botones; se trataba de un triángulo de tela que se ataba con un lazo y que servía para guardar las monedas.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Complementos',
+      significado:
+        'Son las piezas adicionales que hacen parte de una prenda, estas se emplean para dar un mejor acabado o terminado a la camisa, entre estas se hallan la pechera o extensión de la abotonadura, el sesgo de la portañuela, la portañuela y las entretelas.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Dobladillo',
+      significado:
+        'Es el borde de la tela doblada dos veces sobre si misma asegurada con puntadas a mano o a máquina en la parte inferior de faldas, vestidos, pantalones y orillos de mangas etc.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Embonar',
+      significado:
+        'Ocultar los extremos de dos telas previamente cosidas por medio de otra costura, remplaza la costura de filete.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Enhebrar',
+      significado:
+        'Pasar la hebra por el ojo de la aguja o por el agujero de las cuentas, perlas, etc.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Entretela',
+      significado:
+        'Tejido que se pone entre la tela y el forro de una prenda de vestir, para reforzarla o darle consistencia.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Falso',
+      significado:
+        'Tela de refuerzo, doblez. Es la pieza que se ubica en la parte interna de las chaquetas, dándole generalmente un mejor acabado a la prenda.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Fuelle',
+      significado:
+        'Prense que se hace en partes de las prendas (Bolsillo, espalda) para dar más amplitud.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Ojal',
+      significado:
+        ' es un orificio elaborado generalmente al borde de una prenda a través del cual pasa un botón, la medida del ojal debe corresponder con el diámetro del botón, es recomendable entretelar la tela en la ubicación del ojal.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Lateral',
+      significado: ' El lado o el costado de una pieza.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Pernera',
+      significado: 'Parte del pantalón que cubre cada pierna.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Pliegue',
+      significado:
+        'Doblez hecho para ceñir como pinza hueca. Doblez hecho para dar amplitud como los usados en el plisado.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Presillar',
+      significado:
+        'Son puntadas realizadas por ciclos en la máquina presilladora, para darle seguridad y terminación en las uniones de elásticos, sesgos y cargaderas.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Quiebre',
+      significado: 'El doblez que tiene la solapa.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Talle',
+      significado:
+        'Cintura del cuerpo humano. Parte del vestido que corresponde a la cintura. Medida tomada para un vestido o traje, comprendida desde el cuello a la cintura, tanto por delante como por detrás.',
     },
     {
-      termino: 'Caja bobina',
-      significado: '',
+      termino: 'Tiro',
+      significado: 'Es la parte del pantalón donde se unen las piernas.',
     },
   ],
   referencias: [
@@ -367,13 +383,7 @@ export default {
     },
     {
       referencia:
-        'SENA. (2013). Modistería: la máquina de coser. Bogotá, Colombia: Centro de Gestión de Mercados, logística y TIC´s: Bogotá, Colombia [Versión en línea]. Recuperado de:',
-      link:
-        'http://repositorio.sena.edu.co/sitios/modisteria_conocimientos_basicos/hilos_maquina/maquina_coser.html#',
-    },
-    {
-      referencia:
-        'SENA. (2013). Modistería: hilos y tela. Bogotá, Colombia: Centro de Gestión de Mercados, logística y TIC´s: Bogotá, Colombia.',
+        'Mors de Castro, Lucía (2010). Patronaje de moda: una guía práctica paso a paso. Barcelona (España): Promopress. ISBN 978-84-9364-087-3.',
       link: '',
     },
   ],
@@ -397,7 +407,12 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Sandra Paola Morales Paez',
+          nombre: 'Olga Constanza Bermúdez James',
+          cargo: 'Experto temático V1',
+          centro: 'Centro Agroturístico',
+        },
+        {
+          nombre: 'Carolina Jiménez ',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },

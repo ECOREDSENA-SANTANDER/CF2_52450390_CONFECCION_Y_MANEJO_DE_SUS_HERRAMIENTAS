@@ -10,7 +10,7 @@
     p.mb-4(data-aos="fade-right") La blusa es la prenda más importante en el vestuario superior femenino. Las piezas que la comprenden son:
   
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-8.col-sm-5.mb-2
+      .col-lg-3.col-7.col-sm-5.mb-2
         img(src='@/assets/curso/temas/Tema2/img01.png' alt='')
       .col-lg-9
         .tarjeta.fondo-slyder2.p-4
@@ -86,38 +86,38 @@
         .tarjeta.fondo-slyder2.p-4
           SlyderA.fondoblanco.p-4
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-4
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/1.png', alt='Texto que describa la imagen')
               .col-md-8
                 p #[b 1.] Se cierran las pinzas, haciendo coincidir las señas hechas en el molde, las cuales han debido ser marcadas también en la tela. 
            
             .row.justify-content-center.align-items-center
-              .col-md-1.mb-4
+              .col-md-1.mb-4.col-3
                 figure
                   img(src='@/assets/curso/temas/Tema2/2.png', alt='Texto que describa la imagen')
               .col-md-8
                 p #[b 2.]  Luego de tener hechas las pinzas, se encaran derecho con derecho las piezas delantera y espalda. 
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/3.png', alt='Texto que describa la imagen')
               .col-md-8
                 p #[b 3.]  Se cocen con maquina los dos hombros y los dos costados en puntada recta, dejando cerrada la blusa. 
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/4.png', alt='Texto que describa la imagen')
               .col-md-8
                 p #[b 4.]  Ahora se toman los falsos de escotes y se unen también en hombros a 1cm del orillo. 
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/5.png', alt='Texto que describa la imagen')
               .col-md-8
                 p #[b 5.]  Se realiza la misma operación con los falsos de las sisas, solo que estos se unen también en los costados.  
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/6.png', alt='Texto que describa la imagen')
               .col-md-8
@@ -127,19 +127,19 @@
                     img(src='@/assets/curso/temas/Tema2/img11.png', alt='Texto que describa la imagen')
             
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/7.png', alt='Texto que describa la imagen')
               .col-md-8
                 p #[b 7.]  Se montan los falsos de las sisas, se encaran con los contornos de las sisas de la blusa y se procede a cocer a máquina con costura recta sobre todo el contorno, rematando al iniciar y al terminar. 
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/8.png', alt='Texto que describa la imagen')
               .col-md-8
                 p #[b 8.]  Se realiza la misma operación con los falsos de los escotes. 
             .row.justify-content-center.align-items-center
-              .col-md-2.mb-4
+              .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/9.png', alt='Texto que describa la imagen')
               .col-md-8

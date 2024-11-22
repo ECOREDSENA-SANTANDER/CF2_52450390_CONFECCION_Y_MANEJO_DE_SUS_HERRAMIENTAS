@@ -70,21 +70,21 @@
           .row.justify-content-center(numero="3" titulo="Paso 3")
             .col-md-12.mb-4.mb-md-0
               p Doblar la tela derecho con derecho, encarando los piquetes de la pinza. 
-            .col-md-2
+            .col-md-2.col-4
               figure
                 img(src='@/assets/curso/temas/Tema1/img06.png', alt='Texto que describa la imagen')
           
           .row.justify-content-center(numero="4" titulo="Paso 4")
             .col-md-12.mb-4.mb-md-0
               p Desde el orillo de la cintura, partiendo sobre los piquetes, se debe cocer asegurando con remate al comienzo y terminando en diagonal, exactamente en el punto que indica profundidad de pinza. También con remate.
-            .col-md-2
+            .col-md-2.col-4
               figure
                 img(src='@/assets/curso/temas/Tema1/img07.png', alt='Texto que describa la imagen')
           
           .row.justify-content-center(numero="5" titulo="Paso 5")
             .col-md-12.mb-4.mb-md-0
               p De esta forma debe quedar la pinza ya terminada. Así queda por el derecho de la tela:  
-            .col-md-2
+            .col-md-2.col-4
               figure
                 img(src='@/assets/curso/temas/Tema1/img08.png', alt='Texto que describa la imagen')
       .col-lg-5.mb-4.col-8
