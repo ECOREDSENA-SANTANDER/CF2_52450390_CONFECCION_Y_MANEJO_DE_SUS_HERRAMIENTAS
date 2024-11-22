@@ -18,23 +18,33 @@
             .row.justify-content-center
               .col-md-5
                 figure
-                  img(src='@/assets/curso/temas/Tema2/img02.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/Tema2/01.png', alt='Texto que describa la imagen')
 
             .row.justify-content-center
               .col-md-5
                 figure
-                  img(src='@/assets/curso/temas/Tema2/img03.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/Tema2/02.png', alt='Texto que describa la imagen')
 
+
+            .row.justify-content-center
+              .col-md-5.mb-5
+                figure
+                  img(src='@/assets/curso/temas/Tema2/03.png', alt='Texto que describa la imagen')
+
+            .row.justify-content-center
+              .col-md-5.mb-5
+                figure
+                  img(src='@/assets/curso/temas/Tema2/04.png', alt='Texto que describa la imagen')
 
             .row.justify-content-center
               .col-md-3.mb-5
                 figure
-                  img(src='@/assets/curso/temas/Tema2/img04.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/Tema2/05.png', alt='Texto que describa la imagen')
 
             .row.justify-content-center
               .col-md-3.mb-5
                 figure
-                  img(src='@/assets/curso/temas/Tema2/img05.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/Tema2/06.png', alt='Texto que describa la imagen')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8

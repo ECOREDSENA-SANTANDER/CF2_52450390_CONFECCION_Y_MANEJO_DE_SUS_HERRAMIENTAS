@@ -45,7 +45,7 @@
                 .col.mb-3.mb-sm-0
                   h4.mb-2 Para comprender mejor los pasos para el corte de una falda, visita el siguiente enlace
                 .col-lg-auto.pe-lg-5
-                  a.boton.color-acento-botones(href="https://youtu.be/w9GGdFRgpzY" target="_blank")
+                  a.boton.color-acento-botones(href="https://youtu.be/X3NRIdplZok" target="_blank")
                     span Ir al sitio
                     i.fas.fa-file-download 
     

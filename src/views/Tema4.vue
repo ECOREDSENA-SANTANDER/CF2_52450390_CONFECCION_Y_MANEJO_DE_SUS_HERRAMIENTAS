@@ -140,15 +140,15 @@
       .col-lg-6
         .row
           .col-lg-2.col-3
-            img.mb-4(src='@/assets/curso/temas/Tema4/3.svg', alt='')
-          .col-lg-11 #[b 3.] Se cose con pespunte a ¼ a cada lado.
-    
+            img.mb-4(src='@/assets/curso/temas/Tema4/2.svg', alt='')
+          .col-lg-11 #[b 2.] Se redobla la tira dejando el filete por fuera y guardando la zona rustica.
+      
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .row
           .col-lg-2.col-3
-            img.mb-4(src='@/assets/curso/temas/Tema4/2.svg', alt='')
-          .col-lg-11 #[b 2.] Se redobla la tira dejando el filete por fuera y guardando la zona rustica.
+            img.mb-4(src='@/assets/curso/temas/Tema4/3.svg', alt='')
+          .col-lg-11 #[b 3.] Se cose con pespunte a ¼ a cada lado.
         .py-2
       .col-lg-6
         .row
