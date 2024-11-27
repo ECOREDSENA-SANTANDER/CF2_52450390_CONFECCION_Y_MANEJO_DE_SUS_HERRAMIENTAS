@@ -10,41 +10,11 @@
     p.mb-4(data-aos="fade-right") La blusa es la prenda más importante en el vestuario superior femenino. Las piezas que la comprenden son:
   
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-7.col-sm-5.mb-2
-        img(src='@/assets/curso/temas/Tema2/img01.png' alt='')
-      .col-lg-9
-        .tarjeta.fondo-slyder2.p-4
-          SlyderA.fondoblanco.p-4
-            .row.justify-content-center
-              .col-md-5
-                figure
-                  img(src='@/assets/curso/temas/Tema2/01.png', alt='Texto que describa la imagen')
-
-            .row.justify-content-center
-              .col-md-5
-                figure
-                  img(src='@/assets/curso/temas/Tema2/02.png', alt='Texto que describa la imagen')
-
-
-            .row.justify-content-center
-              .col-md-5.mb-5
-                figure
-                  img(src='@/assets/curso/temas/Tema2/03.png', alt='Texto que describa la imagen')
-
-            .row.justify-content-center
-              .col-md-5.mb-5
-                figure
-                  img(src='@/assets/curso/temas/Tema2/04.png', alt='Texto que describa la imagen')
-
-            .row.justify-content-center
-              .col-md-3.mb-5
-                figure
-                  img(src='@/assets/curso/temas/Tema2/05.png', alt='Texto que describa la imagen')
-
-            .row.justify-content-center
-              .col-md-3.mb-5
-                figure
-                  img(src='@/assets/curso/temas/Tema2/06.png', alt='Texto que describa la imagen')
+      .col-lg-12
+        .titulo-sexto.color-primario(data-aos='fade-right')
+          h5 Figura 4.
+          span Piezas de la blusa
+        img(src='@/assets/curso/temas/Tema2/img01.svg', alt='En la figura se ilustran piezas que conforman la blusa: 1 falso escote delantero, 1 falso escote espalda, 2 falsos sisa delantero, 2 falsos sisa espalda, 1 delantero y 1 espalda.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -74,7 +44,7 @@
                 img.mb-4(src='@/assets/curso/temas/Tema2/img07.png', alt='')
             .col-lg
               h3.le Paso 2
-              p.le Se corta cada una de las piezas asegurandose de marcar sobre la tela los puntos señalando las pinzas. 
+              p.le Se corta cada una de las piezas asegurándose de marcar sobre la tela los puntos señalando las pinzas.
           .row.mb-4
             .col-lg
               h3 Paso 3
@@ -113,7 +83,7 @@
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/3.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 3.]  Se cocen con maquina los dos hombros y los dos costados en puntada recta, dejando cerrada la blusa. 
+                p #[b 3.]  Se cosen con maquina los dos hombros y los dos costados en puntada recta, dejando cerrada la blusa. 
             .row.justify-content-center.align-items-center
               .col-md-2.mb-4.col-5
                 figure
@@ -132,10 +102,10 @@
                   img.img(src='@/assets/curso/temas/Tema2/6.png', alt='Texto que describa la imagen')
               .col-md-8
                 p #[b 6.]  Después de tener preparadas todas las piezas, se debe utilizar la maquina fileteadora y proceder a filetear las siguientes zonas da la blusa: 
-                .row.justify-content-center.align-items-center
-                  .col-md-6.justify-content-center
-                    img(src='@/assets/curso/temas/Tema2/img11.png', alt='Texto que describa la imagen')
-            
+                p.mb-0 - Los hombros y costados de la blusa.
+                p.mb-0 - Los hombros, los costados y la zona externa de los falsos de sisa.
+                p.mb-0 - Los hombros  y la zona eterna de los falsos de escotes.
+           
             .row.justify-content-center.align-items-center
               .col-md-2.mb-4.col-5
                 figure
@@ -153,7 +123,7 @@
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/9.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 9.] Se continuan abriendo las costuras de la blusa con la plancha y volteando los falsos, para luego ser asentados o pespuntados en los bordes de los contornos en la maquina con puntada recta.  
+                p #[b 9.] Se continúan abriendo las costuras de la blusa con la plancha y volteando los falsos, para luego ser asentados o pespuntados en los bordes de los contornos en la máquina con puntada recta. 
     
 
 </template>

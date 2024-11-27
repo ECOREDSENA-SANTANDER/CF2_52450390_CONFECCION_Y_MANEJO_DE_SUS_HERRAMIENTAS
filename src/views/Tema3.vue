@@ -16,7 +16,10 @@
     .row.justify-content-center.mb-5
       .col-lg-7
         .cajon.color-primario.p-4.mb-4
-          img.mb-4(src='@/assets/curso/temas/Tema3/img01.png', alt='')
+          .titulo-sexto.color-primario(data-aos='fade-right')
+            h5 Figura 5.
+            span Piezas de la blusa.
+          img.mb-4(src='@/assets/curso/temas/Tema3/img01.png', alt='En la imagen se señalan las piezas que conforman la camisa: cuello, mangas, espalda, bolsillo, delanteros y perilla.')
     p.mb-4 Teniendo preparadas y listas todas las piezas de la camisa, se procede al ensamble.
     
     separador
@@ -24,7 +27,7 @@
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.1.1  Preparación del cuello
     
-    p.mb-4(data-aos="fade-left") Analicemos el paso a paso de un trazado manual
+    p.mb-4(data-aos="fade-left") Analicemos el paso a paso de un trazado manual:
 
     .row.justify-content-center(data-aos="fade-down")
       .col-md-6.col-lg-4.col-12.mb-4
@@ -32,7 +35,7 @@
           img.icono-cambia1(src='@/assets/curso/temas/Tema3/1.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
-              p.mb-0.text-center #[b a.] Se toman las tres piezas (2 cuellos en tela y 1 cuello en entretela), se unen colocando las dos en tela, derecho con derecho y se coce por el contorno a 1 cm.
+              p.mb-0.text-center #[b a.] Se toman las tres piezas (2 cuellos en tela y 1 cuello en entretela), se unen colocando las dos en tela, derecho con derecho y se cose por el contorno a 1 cm.
 
       .col-md-6.col-lg-4.col-12.mb-4
         .tarjeta-avatar
@@ -54,7 +57,7 @@
           img.icono-cambia1(src='@/assets/curso/temas/Tema3/4.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
-              p.mb-0.text-center #[b d.] Ahora se toma la banda, haciendo el dobladillo en la parte inferior a una sola de las tapas, doblando 1cm y cociendo en puntada recta.
+              p.mb-0.text-center #[b d.] Ahora se toma la banda, haciendo el dobladillo en la parte inferior a una sola de las tapas, doblando 1cm y cosiendo en puntada recta.
 
       .col-md-6.col-lg-4.col-12.mb-4
         .tarjeta-avatar
@@ -68,7 +71,7 @@
           img.icono-cambia(src='@/assets/curso/temas/Tema3/6.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
-              p.mb-0.text-center #[b f.] Se cose a 1cm por la parte inferior del cuello y la banda se cose por la parte superior, siempre uniendo todas las piezas.
+              p.mb-0.text-center #[b f.] Se cose a 1 cm por la parte inferior del cuello y la banda se cose por la parte superior, siempre uniendo todas las piezas.
 
     .row.justify-content-center(data-aos="fade-down")
       .col-md-6.col-lg-4.col-12.mb-4
@@ -76,7 +79,7 @@
           img.icono-cambia1(src='@/assets/curso/temas/Tema3/7.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
-              p.mb-0.text-center #[b g.] Luego de unir la banda con el cuello se voltea y se pespunta a 1/16 como lo muestra la imagen.
+              p.mb-0.text-center #[b g.] Luego de unir la banda con el cuello se voltea y se pespunta a 1 / 16.
 
       .col-md-6.col-lg-4.col-12.mb-4
         .tarjeta-avatar
@@ -90,7 +93,7 @@
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 3.1.2  Preparación de la perilla
     
-    p.mb-4(data-aos="fade-left") Para la preparación, dobla la perilla según los piquetes, redobla el centímetro que guarda, pespunta a 1/16 desde el escote del cuello hasta el ruedo y por último realiza los ojales.
+    p.mb-4(data-aos="fade-left") Para la preparación, dobla la perilla según los piquetes, redobla el centímetro que guarda, pespunta a 1 / 16 desde el escote del cuello hasta el ruedo y por último realiza los ojales.
     
     separador
     #t_3_1_3
@@ -103,7 +106,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/Tema3/img02.png')})`}"
       )
       .bloque-texto-g__texto.p-5.my-5
-        p.mb-5(data-aos="fade-right") Se dobla la boca del bolsillo hacia adentro según los piquetes, es importante redoblar el centímetro, se cose con puntada recta y a 1/16.
+        p.mb-5(data-aos="fade-right") Se dobla la boca del bolsillo hacia adentro según los piquetes, es importante redoblar el centímetro, se cose con puntada recta y a 1 / 16.
     .row.fondo1.align-items-center.p-3.mb-4(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4
@@ -124,7 +127,10 @@
     .row.justify-content-center.mb-5
       .col-lg-7
         .cajon.color-primario.p-4.mb-4
-          img.mb-4(src='@/assets/curso/temas/Tema3/img03.svg', alt='')   
+          .titulo-sexto.color-primario(data-aos='fade-right')
+            h5 Figura 6.
+            span Ensamble de la camisa.
+          img.mb-4(src='@/assets/curso/temas/Tema3/img03.svg', alt='En la figura se ilustran las partes de la camisa por separado(mangas, delanteros, espalda, cuello), y luego todas las partes ensambladas formado la prenda.')   
         
         
     separador
@@ -194,7 +200,7 @@
                 figure
                   img.img(src='@/assets/curso/temas/Tema3/img08.svg', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b Paso 2.]   Se filetea con puntada de seguridad, desde el ruedo de la manga, sobre todo el costado, hasta el ruedo del largo de camisa. Esta misma operación se realiza en el otro costado, solo que comenzando desde el ruedo hacia la manga, para así tapar la cadeneta de la puntada de seguridad y que el derecho de la puntada del filete, queden hacia el frente de la camisa.
+                p #[b Paso 2.]   Se filetea con puntada de seguridad, desde el ruedo de la manga, sobre todo el costado, hasta el ruedo del largo de camisa. Esta misma operación se realiza en el otro costado, solo que, comenzando desde el ruedo hacia la manga, para así tapar la cadeneta de la puntada de seguridad y que el derecho de la puntada del filete, queden hacia el frente de la camisa.
         
         
     separador
@@ -223,7 +229,7 @@
           .row.mb-4
             .col-lg
               h3 Paso 3
-              p Por último se organizan las esquinas para entalegar el cuello, guardando la pestaña que se generó en el momento de la unión del cuello con la camisa.
+              p Por último, se organizan las esquinas para entalegar el cuello, guardando la pestaña que se generó en el momento de la unión del cuello con la camisa.
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/Tema3/img999.png', alt='')     
@@ -256,17 +262,17 @@
                   |1. Se toma la parte inferior de la camisa, dobla 1 cm y se redobla otro para evitar que se desfleque.
                 li 
                   i.fas.fa-angle-right
-                  |2. Se cose sobre todo el ruedo con puntada recta a 1/16 si dejar de redoblar, rematando al inicio y al final de la operación.  
+                  |2. Se cose sobre todo el ruedo con puntada recta a 1 / 16 si dejar de redoblar, rematando al inicio y al final de la operación.  
           
           .row.justify-content-center(titulo="Ruedo de manga")
             .col-md-11.mb-4.mb-md-0
               ul.lista-ul--color
                 li
                   i.fas.fa-angle-right
-                  |1. Se toma el ruedo de cualquiera de las dos mangas de la camisa, se dóbla 1cm y luego se redobla 2cm más, este ruedo se realiza de forma circular.
+                  |1. Se toma el ruedo de cualquiera de las dos mangas de la camisa, se dobla 1 cm y luego se redobla 2 cm más, este ruedo se realiza de forma circular.
                 li 
                   i.fas.fa-angle-right
-                  |2. Se cose con pespunte a 1/16 por todo el contorno del ruedo de la manga, montando la costura final sobre la costura inicial generando así el remate y un mejor acabado.
+                  |2. Se cose con pespunte a 1 / 16 por todo el contorno del ruedo de la manga, montando la costura final sobre la costura inicial generando así el remate y un mejor acabado.
   
           
         
@@ -290,7 +296,7 @@
         .row.justify-content-center
           .col-12.p-4.my-4
             h4.text-center.bg-naranja.p-1 Empaque
-            p.text-center(data-aos="fade-right") Finalmente se le colocan las etiquetas con su respectiva referencia y talla a la prenda, se empaca y esta lista la camisa.
+            p.text-center(data-aos="fade-right") Finalmente se, le colocan las etiquetas con su respectiva referencia y talla a la prenda, se empaca y esta lista la camisa.
     
     p.mb-4 Se sugiere revisar el siguiente video para mayor claridad en los procesos de confección de una camisa:
 

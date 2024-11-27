@@ -12,54 +12,31 @@
     .row.justify-content-center.mb-5
       .col-lg-7
         .cajon.color-primario.p-4.mb-4
-          img.mb-4(src='@/assets/curso/temas/Tema4/img01.png', alt='')
+          ImagenInfografica.color-acento-contenido.text-center
+            template(v-slot:imagen)
+              figure
+                img.mb-4(src='@/assets/curso/temas/Tema4/img01.svg', alt='')
 
-    .row.mb-5
-      .col-lg-4
-        ol.lista-ol--cuadro
-          li
-          .lista-ol--cuadro__vineta
-            span 1
-          |Cierre
-          li
-          .lista-ol--cuadro__vineta
-            span 2
-          |Bolsillo delantero
-          li
-          .lista-ol--cuadro__vineta
-            span 3
-          |Bolsillos posteriores
+            .tarjeta.color-primario.p-3(x="19%" y="29%" numero="1")
+              h5.mb-2 Cierre.
+            .tarjeta.color-primario.p-3(x="29%" y="17%" numero="2")
+              h5.mb-2 Bolsillo delantero.
+            .tarjeta.color-primario.p-3(x="75%" y="26%" numero="3")
+              h5.mb-2 Bolsillos posteriores.
+            .tarjeta.color-primario.p-3(x="3%" y="41%" numero="4")
+              h5.mb-2 Cerrada de costados.
+            .tarjeta.color-primario.p-3(x="20%" y="59%" numero="5")
+              h5.mb-2 Cerrada de entrepierna.
+            .tarjeta.color-primario.p-3(x="92%" y="6%" numero="6")
+              h5.mb-2 Preparación de pasadores.
+            .tarjeta.color-primario.p-3(x="77%" y="6%" numero="7")
+              h5.mb-2 Montaje de pretina.
+            .tarjeta.color-primario.p-3(x="14%" y="7%" numero="8")
+              h5.mb-2 Ojalada y botonada.
+            .tarjeta.color-primario.p-3(x="13%" y="94%" numero="9")
+              h5.mb-2 Ruedo.
 
-          li
-          .lista-ol--cuadro__vineta
-            span 4
-          |Cerrada de costados 
-
-          li
-          .lista-ol--cuadro__vineta
-            span 5
-          |Cerrada de entrepierna.
-
-          li
-          .lista-ol--cuadro__vineta
-            span 6
-          |Preparación de pasadores
-
-          li
-          .lista-ol--cuadro__vineta
-            span 7
-          |Montaje de pretina
-
-          li
-          .lista-ol--cuadro__vineta
-            span 8
-          |Ojalada y botonada
-
-          li
-          .lista-ol--cuadro__vineta
-            span 9
-          |Ruedo 
-
+           
     separador
     #t_4_1.titulo-segundo.mb-5
       h2 4.1  Montaje de cierre
@@ -94,11 +71,14 @@
     #t_4_3.titulo-segundo.mb-5
       h2 4.3  Bolsillos posteriores
 
-    p.mb-4 A los bolsillos posteriores se les realiza el dobladillo en la boca de éstos y se ubican en la parte superior de la pernera posterior, entrándole 1cm sobre el contorno menos en la boca así:
+    p.mb-4 A los bolsillos posteriores se les realiza el dobladillo en la boca de éstos y se ubican en la parte superior de la pernera posterior, entrándole 1 cm sobre el contorno menos en la boca así:
     .row.justify-content-center.mb-5
       .col-lg-7
         .cajon.color-primario.p-4.mb-4
-          img.mb-4(src='@/assets/curso/temas/Tema4/img03.svg', alt='')
+          .titulo-sexto.color-primario(data-aos='fade-right')
+            h5 Figura 8. 
+            span Pegado de bolsillo.
+          img.mb-4(src='@/assets/curso/temas/Tema4/img03.svg', alt='En la figura se ilustra la manera como se debe pegar el bolsillo del pantalón.')
 
 
 
@@ -127,7 +107,7 @@
     separador
     #t_4_7.titulo-segundo.mb-5
       h2 4.7  Pasadores
-    p.mb-4 Se realiza una tira completa y se sacan 5 pasadores de 8cm (la medida da cada pasador corresponde a el ancho de la pretina + 5 cm).
+    p.mb-4 Se realiza una tira completa y se sacan 5 pasadores de 8 cm (la medida da cada pasador corresponde a el ancho de la pretina + 5 cm).
     p Estudiemos los pasos para la elaboración de los pasadores:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -185,14 +165,14 @@
                 .row.justify-content-center.align-items-center.p-4
                   .col-md-7.mb-4.mb-md-0
                     h5 Paso 3
-                    p Ahora se cose a máquina con puntada recta y a 1cm de distancia de los orillos, siempre rematando al inicio y al final del trayecto, en este paso se fija la pretina al pantalón.
+                    p Ahora se cose a máquina con puntada recta y a 1 cm de distancia de los orillos, siempre rematando al inicio y al final del trayecto, en este paso se fija la pretina al pantalón.
                   .col-md-3.col-8
                     figure
                       img.mb-4(src='@/assets/curso/temas/Tema4/3.png', alt='')
                 .row.justify-content-center.align-items-center.p-4
                   .col-md-7.mb-4.mb-md-0
                     h5 Paso 4
-                    p Una vez hecho este procedimiento, la otra parte de la pretina se monta sobre el derecho del pantalón, se dobla 1cm hacia adentro y se cose a medio centímetro desde el borde de ésta.
+                    p Una vez hecho este procedimiento, la otra parte de la pretina se monta sobre el derecho del pantalón, se dobla 1 cm hacia adentro y se cose a medio centímetro desde el borde de ésta.
                   .col-md-3.col-8
                     figure
                       img.mb-4(src='@/assets/curso/temas/Tema4/4.png', alt='')

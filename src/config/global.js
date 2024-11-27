@@ -409,7 +409,7 @@ export default {
         {
           nombre: 'Olga Constanza Bermúdez James',
           cargo: 'Experto temático V1',
-          centro: 'Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Carolina Jiménez ',
