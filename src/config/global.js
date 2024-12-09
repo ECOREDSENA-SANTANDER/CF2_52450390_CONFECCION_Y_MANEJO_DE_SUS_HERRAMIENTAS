@@ -255,22 +255,20 @@ export default {
   complementario: [
     {
       tema: '1. Corte y confección de falda',
-      referencia:
-        'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/w9GGdFRgpzY',
+      referencia: 'YouTube. (s/f). Youtu.Be. Recuperado de',
       tipo: 'video',
       link: 'https://youtu.be/w9GGdFRgpzY',
     },
     {
       tema: '3. Corte y confección de camisa',
       referencia:
-        'Acoldemoda [@Acoldemoda]. (s/f). Confección de CAMISA CLÁSICA MASCULINA - DIY - Paso a paso. Youtube. Recuperado de https://www.youtube.com/watch?v=x7d_FSKU5_o',
+        'Acoldemoda [@Acoldemoda]. (s/f). Confección de CAMISA CLÁSICA MASCULINA - DIY - Paso a paso. Youtube. Recuperado de',
       tipo: 'video',
       link: 'https://youtu.be/x7d_FSKU5_o',
     },
     {
       tema: '4.2 Bolsillo lateral',
-      referencia:
-        'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/zozv1G9Yk_M',
+      referencia: 'YouTube. (s/f). Youtu.Be. Recuperado de',
       tipo: 'video',
       link: 'https://youtu.be/zozv1G9Yk_M',
     },
@@ -283,7 +281,7 @@ export default {
     {
       termino: 'Bastas',
       significado:
-        'También llamadas pespunte, es una serie de puntadas en uno o más materiales',
+        'También llamadas pespunte, son una serie de puntadas en uno o más materiales',
     },
     {
       termino: 'Bocamanga',
@@ -302,7 +300,7 @@ export default {
     {
       termino: 'Dobladillo',
       significado:
-        'Es el borde de la tela doblada dos veces sobre si misma asegurada con puntadas a mano o a máquina en la parte inferior de faldas, vestidos, pantalones y orillos de mangas etc.',
+        'Es el borde de la tela doblada dos veces sobre si misma asegurada con puntadas a mano o a máquina en la parte inferior de faldas, vestidos, pantalones y orillos de mangas, etc.',
     },
     {
       termino: 'Embonar',
@@ -327,7 +325,7 @@ export default {
     {
       termino: 'Fuelle',
       significado:
-        'Prense que se hace en partes de las prendas (Bolsillo, espalda) para dar más amplitud.',
+        'Prense que se hace en partes de las prendas (bolsillo, espalda) para dar más amplitud.',
     },
     {
       termino: 'Ojal',
@@ -427,12 +425,12 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Leonardo Castellanos Rodriguez',
+          nombre: 'Leonardo Castellanos Rodríguez',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Maria Alejandra Vera Briceño',
+          nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
         },

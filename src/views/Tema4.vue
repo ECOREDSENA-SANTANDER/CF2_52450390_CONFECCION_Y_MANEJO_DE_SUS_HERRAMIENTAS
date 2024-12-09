@@ -12,10 +12,13 @@
     .row.justify-content-center.mb-5
       .col-lg-7
         .cajon.color-primario.p-4.mb-4
+          .titulo-sexto.color-primario(data-aos='fade-right')
+            h5 Figura 7. 
+            span Partes del pantalón
           ImagenInfografica.color-acento-contenido.text-center
             template(v-slot:imagen)
               figure
-                img.mb-4(src='@/assets/curso/temas/Tema4/img01.svg', alt='')
+                img.mb-4(src='@/assets/curso/temas/Tema4/img01.svg', alt='En la figura se señalan las partes del pantalón:   1. Cierre  2. Bolsillo delantero 3. Bolsillos posteriores 4. Cerrada de costados 5. Cerrada de entrepierna. 6. Preparación de pasadores 7. Montaje de pretina 8. Ojalada y botonada 9. Ruedo ')
 
             .tarjeta.color-primario.p-3(x="19%" y="29%" numero="1")
               h5.mb-2 Cierre.
@@ -41,7 +44,7 @@
     #t_4_1.titulo-segundo.mb-5
       h2 4.1  Montaje de cierre
 
-    p.mb-4 El montaje del cierre es la primera operación que se realiza en proceso de la confección del pantalón. En el siguiente video se presenta la manera de colocar una cremallera:
+    p.mb-4 El montaje del cierre es la primera operación que se realiza en el proceso de la confección del pantalón. En el siguiente video se presenta la manera de colocar una cremallera:
     figure(data-aos="fade-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4pMSfzpnmYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
@@ -102,12 +105,12 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/Tema4/img04.png')})`}"
       )
       .bloque-texto-g__texto.p-5.my-5
-        p.mb-5(data-aos="fade-right") Las piezas anterior y posterior de cada pierna se unen por la costura de entrepierna. Se colocan ambas piezas resultantes haciendo coincidir la cruz de la entrepierna, se sujetan con alfileres para coser la curvatura entera utilizando una maquina fileteadora con puntada de seguridad.
+        p.mb-5(data-aos="fade-right") Las piezas anterior y posterior de cada pierna se unen por la costura de entrepierna. Se colocan ambas piezas resultantes haciendo coincidir la cruz de la entrepierna, se sujetan con alfileres para coser la curvatura entera utilizando una máquina fileteadora con puntada de seguridad.
             
     separador
     #t_4_7.titulo-segundo.mb-5
       h2 4.7  Pasadores
-    p.mb-4 Se realiza una tira completa y se sacan 5 pasadores de 8 cm (la medida da cada pasador corresponde a el ancho de la pretina + 5 cm).
+    p.mb-4 Se realiza una tira completa y se sacan 5 pasadores de 8 cm (la medida de cada pasador corresponde al ancho de la pretina + 5 cm).
     p Estudiemos los pasos para la elaboración de los pasadores:
 
     .row.justify-content-center.align-items-center.mb-5

@@ -48,7 +48,7 @@
           .row.mb-4
             .col-lg
               h3 Paso 3
-              p Se organizan todas las piezas ya cortadas y déjalas listas para confeccionarlas.  
+              p Se organizan todas las piezas ya cortadas y se dejan listas para confeccionarlas.  
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/Tema2/img08.png', alt='')
@@ -70,38 +70,38 @@
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/1.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 1.] Se cierran las pinzas, haciendo coincidir las señas hechas en el molde, las cuales han debido ser marcadas también en la tela. 
+                p #[b a.] Se cierran las pinzas, haciendo coincidir las señas hechas en el molde, las cuales han debido ser marcadas también en la tela. 
            
             .row.justify-content-center.align-items-center
               .col-md-1.mb-4.col-3
                 figure
                   img(src='@/assets/curso/temas/Tema2/2.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 2.]  Luego de tener hechas las pinzas, se encaran derecho con derecho las piezas delantera y espalda. 
+                p #[b b.]  Luego de tener hechas las pinzas, se encaran derecho con derecho las piezas delantera y espalda. 
             .row.justify-content-center.align-items-center
               .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/3.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 3.]  Se cosen con maquina los dos hombros y los dos costados en puntada recta, dejando cerrada la blusa. 
+                p #[b c.]  Se cosen con máquina los dos hombros y los dos costados en puntada recta, dejando cerrada la blusa. 
             .row.justify-content-center.align-items-center
               .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/4.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 4.]  Ahora se toman los falsos de escotes y se unen también en hombros a 1cm del orillo. 
+                p #[b d.]  Ahora se toman los falsos de escotes y se unen también en hombros a 1 cm del orillo. 
             .row.justify-content-center.align-items-center
               .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/5.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 5.]  Se realiza la misma operación con los falsos de las sisas, solo que estos se unen también en los costados.  
+                p #[b e.]  Se realiza la misma operación con los falsos de las sisas, solo que estos se unen también en los costados.  
             .row.justify-content-center.align-items-center
               .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/6.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 6.]  Después de tener preparadas todas las piezas, se debe utilizar la maquina fileteadora y proceder a filetear las siguientes zonas da la blusa: 
+                p #[b f.]  Después de tener preparadas todas las piezas, se debe utilizar la máquina fileteadora y proceder a filetear las siguientes zonas de la blusa: 
                 p.mb-0 - Los hombros y costados de la blusa.
                 p.mb-0 - Los hombros, los costados y la zona externa de los falsos de sisa.
                 p.mb-0 - Los hombros  y la zona eterna de los falsos de escotes.
@@ -111,19 +111,19 @@
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/7.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 7.]  Se montan los falsos de las sisas, se encaran con los contornos de las sisas de la blusa y se procede a cocer a máquina con costura recta sobre todo el contorno, rematando al iniciar y al terminar. 
+                p #[b g.]  Se montan los falsos de las sisas, se encaran con los contornos de las sisas de la blusa y se procede a coser a máquina con costura recta sobre todo el contorno, rematando al iniciar y al terminar. 
             .row.justify-content-center.align-items-center
               .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/8.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 8.]  Se realiza la misma operación con los falsos de los escotes. 
+                p #[b h.]  Se realiza la misma operación con los falsos de los escotes. 
             .row.justify-content-center.align-items-center
               .col-md-2.mb-4.col-5
                 figure
                   img.img(src='@/assets/curso/temas/Tema2/9.png', alt='Texto que describa la imagen')
               .col-md-8
-                p #[b 9.] Se continúan abriendo las costuras de la blusa con la plancha y volteando los falsos, para luego ser asentados o pespuntados en los bordes de los contornos en la máquina con puntada recta. 
+                p #[b i.] Se continúan abriendo las costuras de la blusa con la plancha y volteando los falsos, para luego ser asentados o pespuntados en los bordes de los contornos en la máquina con puntada recta. 
     
 
 </template>

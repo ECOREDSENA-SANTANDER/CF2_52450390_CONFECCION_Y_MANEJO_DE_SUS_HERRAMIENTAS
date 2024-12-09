@@ -143,8 +143,8 @@ export default {
           imagen: require('@/assets/actividad/img02.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',

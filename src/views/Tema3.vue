@@ -57,7 +57,7 @@
           img.icono-cambia1(src='@/assets/curso/temas/Tema3/4.svg' alt='')
           .tarjeta.bg3
             .p-4.my-3
-              p.mb-0.text-center #[b d.] Ahora se toma la banda, haciendo el dobladillo en la parte inferior a una sola de las tapas, doblando 1cm y cosiendo en puntada recta.
+              p.mb-0.text-center #[b d.] Ahora se toma la banda, haciendo el dobladillo en la parte inferior a una sola de las tapas, doblando 1 cm y cosiendo en puntada recta.
 
       .col-md-6.col-lg-4.col-12.mb-4
         .tarjeta-avatar
@@ -150,7 +150,7 @@
           li
           .lista-ol--cuadro__vineta
             span 2
-          |En la maquina fileteadora, la cual debe estar enhebrada con puntada de seguridad, para evitar pasar la maquina plana a 1 cm.
+          |En la máquina fileteadora, la cual debe estar enhebrada con puntada de seguridad, para evitar pasar la máquina plana a 1 cm.
           hr
           li
           .lista-ol--cuadro__vineta
@@ -225,7 +225,7 @@
                 img.mb-4(src='@/assets/curso/temas/Tema3/img99.png', alt='')
             .col-lg
               h3.le Paso 2
-              p.le Se cose sobre todo el contorno del escode de cuello a 1 cm con puntada recta, sin ir a coser la parte dobladillada, rematando al iniciar y al finalizar la operación.
+              p.le Se cose sobre todo el contorno del escote de cuello a 1 cm con puntada recta, sin ir a coser la parte dobladillada, rematando al iniciar y al finalizar la operación.
           .row.mb-4
             .col-lg
               h3 Paso 3
@@ -296,7 +296,7 @@
         .row.justify-content-center
           .col-12.p-4.my-4
             h4.text-center.bg-naranja.p-1 Empaque
-            p.text-center(data-aos="fade-right") Finalmente se, le colocan las etiquetas con su respectiva referencia y talla a la prenda, se empaca y esta lista la camisa.
+            p.text-center(data-aos="fade-right") Finalmente, se le colocan las etiquetas con su respectiva referencia y talla a la prenda, se empaca y esta lista la camisa.
     
     p.mb-4 Se sugiere revisar el siguiente video para mayor claridad en los procesos de confección de una camisa:
 

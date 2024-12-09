@@ -59,7 +59,7 @@
       .col-lg-7.mb-4
         LineaTiempoD.color-acento-botones.activo
           
-          p(numero="1" titulo="Paso 1") Coser a máquina la prenda asegurándose que esté correctamente enhebrada, con el color del hilo similar al de la tela a cocer y que su puntada sea de 3,5 de largo, en el selector de puntada de la maquina plana. 
+          p(numero="1" titulo="Paso 1") Coser a máquina la prenda asegurándose que esté correctamente enhebrada, con el color del hilo similar al de la tela a coser y que su puntada sea de 3,5 de largo, en el selector de puntada de la maquina plana. 
           .row.justify-content-center(numero="2" titulo="Paso 2")
             .col-md-12.mb-4.mb-md-0
               p Revisar si el delantero y los dos posteriores tienen marcados los piquetes y la profundidad de pinza. 
@@ -83,7 +83,7 @@
           
           .row.justify-content-center(numero="4" titulo="Paso 4")
             .col-md-12.mb-4.mb-md-0
-              p Desde el orillo de la cintura, partiendo sobre los piquetes, se debe cocer asegurando con remate al comienzo y terminando en diagonal, exactamente en el punto que indica profundidad de pinza. También con remate.
+              p Desde el orillo de la cintura, partiendo sobre los piquetes, se debe coser asegurando con remate al comienzo y terminando en diagonal, exactamente en el punto que indica profundidad de pinza. También con remate.
               .titulo-sexto.color-primario(data-aos='fade-right')
                 h5 Figura 3.
                 span Pinza
@@ -127,7 +127,7 @@
     #t_1_3.titulo-segundo.mb-5
       h2 1.3  Cierre 
 
-    p.mb-4 El cierre va ubicado en el centro atrás o en uno de los costados, eso varía según lo desee la persona que a la que se le va a confeccionar la prenda, para una falda básica se recomienda un cierre de 18cm de largo. A continuación, se presentan los pasos a seguir para colocar un cierre de falda.
+    p.mb-4 El cierre va ubicado en el centro atrás o en uno de los costados, eso varía según lo desee la persona que a la que se le va a confeccionar la prenda, para una falda básica se recomienda un cierre de 18 cm de largo. A continuación, se presentan los pasos a seguir para colocar un cierre de falda.
     
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
@@ -169,11 +169,11 @@
                 img.mb-4(src='@/assets/curso/temas/Tema1/img13.png', alt='')
             .col-lg
               h3.le Paso 2
-              p.le Luego se cose en la maquina plana y con puntada recta, a 1cm de distancia del orillo de los costados. 
+              p.le Luego se cose en la maquina plana y con puntada recta, a 1 cm de distancia del orillo de los costados. 
           .row.mb-4
             .col-lg
               h3 Paso 3
-              p Siempre se debe rematar al iniciar y al finalizar el trayecto a cocer. 
+              p Siempre se debe rematar al iniciar y al finalizar el trayecto a coser. 
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/Tema1/img14.png', alt='')
@@ -190,7 +190,7 @@
         LineaTiempoD.color-acento-botones.activo
           p(numero="1" titulo="Paso 1") Luego de haber cerrado los costados, se monta la pretina, haciendo coincidir el piquete de mitad de pretina con el de la mitad del delantero de la falda, ubicando el derecho de tela de la pretina con el revés de tela de la falda. 
           p(numero="2" titulo="Paso 2") Se cose a máquina con puntada recta y a 1 cm de distancia de los orillos, siempre rematando al inicio y al final del trayecto, en este paso estamos fijando la pretina de la falda. 
-          p(numero="3" titulo="Paso 3") Una vez hecho este procedimiento, la otra parte de la pretina se monta sobre el derecho de la falda,  se dobla 1cm hacia adentro y se cose a ½ cm desde el borde de ésta. 
+          p(numero="3" titulo="Paso 3") Una vez hecho este procedimiento, la otra parte de la pretina se monta sobre el derecho de la falda,  se dobla 1 cm hacia adentro y se cose a ½ cm desde el borde de ésta. 
           p(numero="4" titulo="Paso 4") Después de haber montado la pretina, se hacen las esquinas, puntas o cabezas en cada extremo de ella, doblado ½ cm y cociendo sobre el orillo. 
           p(numero="5" titulo="Paso 5") Por último, se hace el ojal y se coloca el botón.   
       .col-lg-5.mb-4.col-8
